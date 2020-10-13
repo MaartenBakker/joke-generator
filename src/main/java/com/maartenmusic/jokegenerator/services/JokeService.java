@@ -1,6 +1,6 @@
 package com.maartenmusic.jokegenerator.services;
 
-public interface GetJokeService {
+public interface JokeService {
 
     String getJoke();
 
